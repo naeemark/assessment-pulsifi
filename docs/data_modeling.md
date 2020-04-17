@@ -40,7 +40,8 @@
  *Data types as shown in the Entity Relationship Diagram*
 
 #### **4 - Normalization** ####
-- Such systems are normalized upto 3-NF to maintain a balance between data redundancy and inconsistency.
+- Such systems are normalized upto 3-NF to avoid redundancy and inconsistency.
+- On the other hand it is also required that we dont need to make unnecessary joins while making retrieval operations on the database system. Which could be because of unnecessary decomposition of tabales.
 - In our example there is not `many-to-many` relation found. So we don't need to create some reference tables to resolve `many-to-many` into `one-to-many` relationship.
 - No fields are redundant in any table except the Foreign-Keys. So, there is no need to decompose any table further. 
 
