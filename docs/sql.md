@@ -24,3 +24,7 @@
 
 - MySQL 5.7
 - MySQL 5.6 [sqlfiddle](http://sqlfiddle.com/#!9/295c44/2)
+
+
+### Query Result ###
+![Query](../screenshots/query_results.png)
