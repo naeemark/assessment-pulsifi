@@ -17,10 +17,6 @@
     - Database Schema: [sample_schema.sql](../sql/sample_schema.sql)
     - Query: [retrieve_query.sql](../sql/retrieve_query.sql)
 
-### How to set up ###
-To set-up the project locally you need to clone this repo, from `master` or `develop` branch or some latest `TAG`
-- install `pipenv` if you don't have already
-
 ### SQL Fiddle ###
 - A working solution can be tested on [sqlfiddle](http://sqlfiddle.com/#!9/295c44/2)
 
