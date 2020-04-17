@@ -17,6 +17,7 @@
 
 ### How to set up ###
 To set-up the project locally you need to clone this repo, from `master` or `develop` branch or some latest `TAG`
+- install `pipenv` if you don't have already
 
 ### Project Directory ###
 - This python project in located in [python-code](../python-code)
